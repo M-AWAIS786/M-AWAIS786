@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @M-AWAIS786
-- 👀 I’m interested in Java,flutter native platform development ...
-- 🌱 I’m currently learning Android Studio ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-M-AWAIS786/M-AWAIS786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, This is me Muhammad Awais.
+- 👀 I have working on flutter and dart language and make a projects.
+- 🌱 I’m currently working to become a full stack app developer.
+- 💞️ I’m looking to collaborate on App developer team and remote work.
+- 📫 How to reach me?
+- 😊 Contact with me on LinkedIn.
