@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-awais786&label=Profile%20views&color=0e75b6&style=flat" alt="m-awais786" /> </p>
 
-- 🔭 I’m currently Learning to become a full stack developer [Netflix App](https://github.com/M-AWAIS786/Netflix_APP)
+- 🔭 I’m currently Learning to become a full stack developer.
 
 - 🌱 I’m currently learning **Flutter, Dart, Node.js, TypeScript,**
 
