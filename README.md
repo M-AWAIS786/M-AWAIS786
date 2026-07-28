@@ -1,35 +1,99 @@
-<!DOCTYPEHTML>
-<html>
- <head>
-<meta name="google-site-verification" content="eIWLC7ytX9N5Aw7SyRkGg_fOCdVDbnH-4AXSJxHd38A" />
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
-</head>
-  
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<h3 align="center">Full Stack Flutter Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-awais786&label=Profile%20views&color=0e75b6&style=flat" alt="m-awais786" /> </p>
-
-- 🔭 I’m currently Learning to become a full stack developer.
-
-- 🌱 I’m currently learning **Flutter, Dart, Node.js, TypeScript,**
-
-- 📫 How to reach me **awaisaslam0335@gmail.com**
-
-- ⚡ Fun fact **I am funny😍😍😍**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad awais" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Flutter+%2B+Firebase+%2B+Supabase+Developer;30%2B+Projects+Delivered;10%2B+Live+Apps+on+Play+Store+%26+App+Store" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:awaisaslam0335@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-awais786&show_icons=true&locale=en&layout=compact" alt="m-awais786" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-awais786&show_icons=true&locale=en" alt="m-awais786" /></p>
+### 🚀 About Me
+- 🎯 Flutter Developer with **2.4+ years** of experience building scalable mobile apps
+- 📱 Delivered **30+ Flutter projects**, launched **10+ live apps** on app stores
+- 🏗️ Expert in Clean Architecture, MVVM, real-time features, and role-based systems
+- 🌍 Based in Rawalpindi, Pakistan
+- 💼 Currently: Full Stack Flutter Developer @ FsProgrammers, Islamabad
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-awais786&" alt="m-awais786" /></p>
- 
-</html>
+---
+
+### 🛠️ Tech Stack
+
+**Mobile & Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**State Management**
+![Riverpod](https://img.shields.io/badge/Riverpod-2F80ED?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-00C853?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-4527A0?style=for-the-badge)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Deployment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+
+**Other Skills**
+Google Maps · AdMob · Stripe/PayNow/Paymob/JazzCash · ML Kit · TensorFlow · Push Notifications · In-App Purchases · REST API · WebSockets
+
+---
+
+### 💼 Experience
+
+**Full Stack Flutter Mobile App Developer** — FsProgrammers, Islamabad (Feb '26 – Present)
+Building scalable Flutter apps and backend services for startups & international clients using Node.js, Express.js, MongoDB, PostgreSQL.
+
+**Flutter Mobile App Developer** — CodesVista, Rawalpindi (Nov '24 – Feb '26)
+Developed 20+ cross-platform Flutter apps using Firebase, Supabase, REST APIs, and Clean Architecture.
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| **Bidaya** | Flutter, Supabase | Parent-staff-admin school management app: attendance, meals, fees, progress reports |
+| **Pet Social App** | Flutter, Firebase | Pet social network: location-based discovery, chat, RevenueCat subscriptions, referrals |
+| **Opty Slip** | Flutter, Node.js, MongoDB | Offline-first optical shop management: orders, patient records, sales dashboard |
+| **Retro Route Co** | Flutter, Node.js, MongoDB | Spa delivery app: zone scheduling, Stripe/Apple Pay/Google Pay, real-time notifications |
+
+---
+
+### 🎓 Education
+**BS Computer Science** — PMAS Arid Agriculture University, Rawalpindi (2020 – 2024) | CGPA: 3.53/4.00
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="60%" />
+</p>
+
+---
+
+### 📫 Reach Me
+📧 awaisaslam0335@gmail.com | 📱 0318-0583015 | 📍 Rawalpindi, Pakistan
+
+<p align="center"><i>⭐️ From Muhammad Awais — Let's build something great!</i></p>
